@@ -6,7 +6,7 @@
 - 
 - Tools and languages:
 - Excel
-Google sheets, SQL, PostgresSQL, Tableau, Superset, Power BI, Qlik, Looker, Python, Git,GitHub.
+Google sheets, SQL, PostgresSQL, Tableau, Superset, Power BI, Qlik, Looker, Python, Git, GitHub.
 
 -CV https://cv.hexlet.io/ru/resumes/3083
 
