@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaximManuyko
+- 👋 Hi, I’m @Maxim_Manuyko
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning for data analytics Hexlet
 - 📫 How to reach me telegram @Malyntid
